@@ -16,7 +16,7 @@ Node.js express를 이용해서 간단히 만든 카카오톡 자동응답 API �
 
 ### 카카오톡 사용
 
-<img src="./docs/Screenshot_2018-08-09-04-44-02.png" height=200>
+<img src="./docs/Screenshot_2018-08-09-04-44-02.png" height=700>
 
  POST /message 부분에서 해당 문장에 따라 답변을 하게 처리했습니다. <br>
 다른 방법으로 이용하실려면 이 부분을 고쳐야합니다.<br>
